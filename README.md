@@ -28,7 +28,7 @@ rwxrwxr-x
 ---
 
 ## 📊 Flowchart
-<br/> <img src="pic6.png" alt="Script Content" width="500"/> </div>
+<br/> <img src="pic6.jpg" alt="Script Content" width="500"/> </div>
 
 
 ## The python example
@@ -36,7 +36,7 @@ i create a python file on virtual box inside ubento by writing in terminal the c
 <div align="center"> <img src="pic1.png" alt="Creating Python File" width="500"/> <br/> <img src="pic4.png" alt="Script Content" width="500"/> </div>
 
 after that i run the code and use command ls to cheackout if the premmiton has changed or not 
-<div align="center"> <img src="pic3.png" alt="Creating Python File" width="500"/> <br/> <img src="pic2.png" alt="Script Content" width="500"/> </div>
+<div align="center"> <img src="pic2.png" alt="Creating Python File" width="500"/> <br/> <img src="pic3.png" alt="Script Content" width="500"/> </div>
 
 ---
 ## the code 
