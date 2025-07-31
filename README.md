@@ -1,4 +1,4 @@
-i want readme file on github # 🔐 Linux File Permissions - Explained and Automated with Python
+## 🔐 Linux File Permissions - Explained and Automated with Python
 
 This project demonstrates how Linux file permissions work and how to change them programmatically using Python. It includes a flowchart, permission breakdown, and a script to set permissions to rwxrwxr-x (775).
 
@@ -31,12 +31,25 @@ rwxrwxr-x
 <br/> <img src="pic6.jpg" alt="Script Content" width="500"/> </div>
 
 
-## The python example
-i create a python file on virtual box inside ubento by writing in terminal the code is write my name in example.txt 
-<div align="center"> <img src="pic1.png" alt="Creating Python File" width="500"/> <br/> <img src="pic4.png" alt="Script Content" width="500"/> </div>
+## 🐍 The Python Example
 
-after that i run the code and use command ls to cheackout if the premmiton has changed or not 
-<div align="center"> <img src="pic2.png" alt="Creating Python File" width="500"/> <br/> <img src="pic3.png" alt="Script Content" width="500"/> </div>
+I created a Python file on VirtualBox inside Ubuntu by writing a simple script in the terminal.  
+The script writes my name into a file called `example.txt`.
+
+<div align="center">  
+  <img src="pic1.png" alt="Creating Python File" width="500"/>  
+  <br/>  
+  <img src="pic4.png" alt="Script Content" width="500"/>  
+</div>
+
+After that, I ran the code and used the `ls -l` command to check whether the file permissions were changed or not.
+
+<div align="center">  
+  <img src="pic2.png" alt="Before Permission Change" width="500"/>  
+  <br/>  
+  <img src="pic3.png" alt="After Permission Change" width="500"/>  
+</div>
+
 
 ---
 ## the code 
